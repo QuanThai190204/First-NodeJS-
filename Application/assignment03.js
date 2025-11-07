@@ -41,9 +41,10 @@ async function closePool() {
 
 // Example usage
 (async () => {
-    //await addStudent('Ben', 'Holmes', 'ben.holmes@gmail.com', '2020-010-12')
-    //await updateStudentEmail(5, 'BEN.HOLMES@gmail.com');
-    //await deleteStudent(5);
+    //await addStudent('Ben', 'Holmes', 'ben.holmes@gmail.com', '2020-10-12');
+    //await addStudent('Anana', 'Bach', 'Anana.Bach@gmail.com', '2021-11-12');
+    //await updateStudentEmail(13, 'BEN.HOLMES@gmail.com');
+    await deleteStudent(13);
     const students = await getAllStudents();
     console.log(students);
     await closePool();

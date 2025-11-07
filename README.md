@@ -1,8 +1,9 @@
 HOANG QUAN THAI - 101296950
 
-INSTALL INSTRUCTIONS: npm i pg 
+INSTALL INSTRUCTIONS:   NodeJS (in NodeJS browser)
+                        npm i pg (in IDE terminal)
 
 LAUNCH INSTRUCTIONS:  node assignment03.js
                                     
 
-VIDEO DEMONSTRATION: https://youtu.be/bEq_RNk2o54
+VIDEO DEMONSTRATION: https://youtu.be/t2IPWQPWILQ
